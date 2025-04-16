@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "Introduction"
+author: Ayano Sasaki
 permalink: /
 ---
 
