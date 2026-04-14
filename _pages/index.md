@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: Ayano Sasaki
+author: default
 permalink: /
 ---
 
