@@ -16,6 +16,10 @@ Nikka Frontierを仕入れました！ウイスキーです
 
 # Project
 KotlinでAndroidのアプリ開発しています！
+最近iOSの開発にも取り組み始めました^^
+やってみたい人，一緒に頑張りましょう！！
+<img width="570" height="195" alt="image" src="https://github.com/user-attachments/assets/2843c661-204f-4086-a241-21dbc8d1aedf" />
+
 
 
 ---
