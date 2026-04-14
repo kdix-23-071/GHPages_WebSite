@@ -4,9 +4,18 @@ author: Ayano Sasaki
 permalink: /
 ---
 
+# Nice to meet you!
+初めまして！KITHUB役員の佐々木 彩乃です！
+ぽんずって呼んでください！！！
 
+# Hobby
+最近はお酒よく飲んでます！ 
+Nikka Frontierを仕入れました！ウイスキーです
+ブランデーをハーゲンダッツにかけて食べるのがイチオシ❤︎
+<img width="1024" height="681" alt="image" src="https://github.com/user-attachments/assets/96d85cdf-98c3-4b93-8e5d-50ca239c2510" />
 
-
+# Project
+KotlinでAndroidのアプリ開発しています！
 
 
 ---
